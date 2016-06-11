@@ -1,0 +1,92 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{14DBA0BE-9839-1A53-5D57-0103F7E9E0E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14DBA0BE-9839-1A53-5D57-0103F7E9E0E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14DBA0BE-9839-1A53-5D57-0103F7E9E0E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14DBA0BE-9839-1A53-5D57-0103F7E9E0E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14DBA0BE-9839-1A53-5D57-0103F7E9E0E8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		Policies = $0
+		$0.TextStylePolicy = $1
+		$1.FileWidth = 120
+		$1.TabsToSpaces = False
+		$1.inheritsSet = VisualStudio
+		$1.inheritsScope = text/plain
+		$1.scope = text/x-csharp
+		$0.CSharpFormattingPolicy = $2
+		$2.IndentSwitchBody = True
+		$2.AlignEmbeddedStatements = False
+		$2.NamespaceBraceStyle = EndOfLine
+		$2.ClassBraceStyle = EndOfLine
+		$2.InterfaceBraceStyle = EndOfLine
+		$2.StructBraceStyle = EndOfLine
+		$2.EnumBraceStyle = EndOfLine
+		$2.MethodBraceStyle = EndOfLine
+		$2.ConstructorBraceStyle = EndOfLine
+		$2.DestructorBraceStyle = EndOfLine
+		$2.ElseNewLinePlacement = NewLine
+		$2.CatchNewLinePlacement = NewLine
+		$2.FinallyNewLinePlacement = NewLine
+		$2.WhileNewLinePlacement = NewLine
+		$2.ArrayInitializerWrapping = WrapAlways
+		$2.BeforeMethodDeclarationParentheses = False
+		$2.WithinMethodDeclarationParentheses = True
+		$2.BeforeMethodCallParentheses = False
+		$2.WithinMethodCallParentheses = True
+		$2.BeforeConstructorDeclarationParentheses = False
+		$2.WithinConstructorDeclarationParentheses = True
+		$2.NewLineBeforeConstructorInitializerColon = SameLine
+		$2.NewLineAfterConstructorInitializerColon = SameLine
+		$2.BeforeIndexerDeclarationBracket = False
+		$2.WithinIndexerDeclarationBracket = True
+		$2.BeforeDelegateDeclarationParentheses = False
+		$2.AfterDelegateDeclarationParameterComma = True
+		$2.WithinDelegateDeclarationParentheses = True
+		$2.NewParentheses = False
+		$2.IfParentheses = False
+		$2.WhileParentheses = False
+		$2.ForParentheses = False
+		$2.ForeachParentheses = False
+		$2.CatchParentheses = False
+		$2.SwitchParentheses = False
+		$2.LockParentheses = False
+		$2.UsingParentheses = False
+		$2.WithinIfParentheses = True
+		$2.WithinWhileParentheses = True
+		$2.WithinForParentheses = True
+		$2.WithinForEachParentheses = True
+		$2.WithinCatchParentheses = True
+		$2.WithinSwitchParentheses = True
+		$2.WithinLockParentheses = True
+		$2.WithinUsingParentheses = True
+		$2.WithinTypeOfParentheses = True
+		$2.WithinNewParentheses = True
+		$2.SpacesWithinBrackets = True
+		$2.SpacesBeforeBrackets = False
+		$2.MethodDeclarationClosingParenthesesOnNewLine = NewLine
+		$2.inheritsSet = Mono
+		$2.inheritsScope = text/x-csharp
+		$2.scope = text/x-csharp
+		$0.DotNetNamingPolicy = $3
+		$3.DirectoryNamespaceAssociation = None
+		$3.ResourceNamePolicy = FileFormatDefault
+		$0.TextStylePolicy = $4
+		$4.FileWidth = 120
+		$4.TabsToSpaces = False
+		$4.inheritsSet = VisualStudio
+		$4.inheritsScope = text/plain
+		$4.scope = text/plain
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
